@@ -5,7 +5,7 @@ defaults:
 
 permalink: /:categories/:title
 
-baseurl: /docs
+baseurl: /postman-docs
 
 # Namespace for custom variables
 pm:
